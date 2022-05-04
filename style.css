@@ -6952,6 +6952,10 @@ span.monthp {
 .smiletec-logo {
     margin-top: 10px;
 }
+.smiletec-logo img {
+    width: 250px;
+}
+
 .company-info-desc p {
     padding: 32px 16px 0 0px;
     color: #fff;
